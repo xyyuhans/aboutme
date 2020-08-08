@@ -1,15 +1,15 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: Xinyu Yu
 email:
-  url: mailto:woden@cs.cmu.edu
-  text: woden@cs.cmu.edu
+  url: mailto:xyyuhans@hotmail.com
+  text: xyyuhans@hotmail.com
 homepage:
-  url: http://cs.cmu.edu/~woden
-  text: cs.cmu.edu/~woden
+  url: https://github.com/xyyuhans
+  text: github.com/xyyuhans
 ---
 
-# Wode **Ni**
+# Xinyu **Yu**
 
 <!--
 include contact information from the front matter
