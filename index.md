@@ -37,24 +37,16 @@ Wuhan, China
 
 ## Experience
 
-### **Microsoft Research** `2020.5 -`
+### **Data Storage and Application Lab at HUST** _Intern_ `July 2019`
 
-_Research Intern_<br>
+- Learned the relevant knowledge of solid state storage, cloud computing and virtualization
+- Completed the project of Docker container migration based on CRIU
+  - [repo](https://github.com/xyyuhans/Docker-Criu-Migration)
 
-### **Carnegie Mellon University, Research Experiences for Undergraduate** `2017.5 - 2017.8`
+### **AI & Big Data Analysis Programme at NUS** _Short-term Study_ `21 January 2019 - 28 January 2019`
 
-_Research Assistant_<br>
-**Penrose** is a system that automatically visualizes mathematics using two domain-specific languages: **Substance** and **Style**. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
-
-### **Columbia University, Computer Graphics and User Interfaces Lab** `2017.1 - 2017.5`
-
-_Research Assistant_<br>
-Worked with prof. Steven Feiner, on **Cyber Affordance Visualization in Augumented Reality** project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
-
-### **AsiaInfo** `2015.6 - 2015.8`
-
-_Software Engineering Intern_<br>
-Worked on server-side web applications and server deployment tools.
+- Learned the basic knowledge of machine learning and robotics
+- Learned R Language and put it into practice
 
 ## Mentoring
 
