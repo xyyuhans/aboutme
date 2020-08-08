@@ -23,32 +23,11 @@ Supported arguments:
 
 ## Education
 
-### **Carnegie Mellon University** `2018.9 -`
+### **Huazhong University of Science and Technology (HUST)** `September 2016 - June 2020`
 
 ```
-Pittsburgh, PA
+Wuhan, China
 ```
-
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
-
-### **Columbia University** `2016.9 - 2018.5`
-
-```
-New York, NY
-```
-
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
-
-### **Dickinson College** `2013.9 - 2016.5`
-
-```
-Carlisle, PA
-```
-
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
 
 ## Publications
 
@@ -96,6 +75,11 @@ _Evaluation and Usability of Programming Languages and Tools (PLATEAU 2019), co-
 
 **Wode Ni**.<br> _Dickinson College Honors Theses. Paper 221._<br>
 [[PDF]({{ page.homepage.url }}/assets/superres.pdf)]
+- Degree: Bachelor of Engineering
+- School: School of Optical and Electronic Information
+- Major: Electronic Science and Technology
+- GPA: 3.82/4
+- CGOA: 86.0/100
 
 ## Experience
 
