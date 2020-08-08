@@ -48,6 +48,22 @@ Wuhan, China
 - Learned the basic knowledge of machine learning and robotics
 - Learned R Language and put it into practice
 
+## Academic Projects
+
+- Microwave Devices and Microwave Circuit Project `2019`
+  - design of Elliptic filter
+- Integrated Circuit Project `2019`
+  - design of CRC circuit with I2C bus in Verilog
+- Microcomputer Lab `2018`
+  - 24 Game based on C8051F020
+- Software Project `2017`
+  - BMP image viewer in C Language
+
+## Extracurricular Activities
+
+- The second prize of Soccer in Sports Skills Competition For Physical Class Students at HUST `2018` <br>
+- Volunteer tutor for middle school students _2 hrs/week_ `October 2016 - May 2017` <br>
+  - Good Member Award in 2017
 
 <!-- ### Footer
 
